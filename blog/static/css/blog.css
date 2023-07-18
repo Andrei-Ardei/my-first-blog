@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #C25100;
+    background-color: #0e61aa;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -18,11 +18,12 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .date {
-    color: #40E0D0;
+    color: #333333;
+	font-weight: bold;
 }
 
 .save {
@@ -59,12 +60,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: #0e61aa;
     background: none;
-    border-color: #C25100;
+    border-color: #0e61aa;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #0e61aa;
 }
